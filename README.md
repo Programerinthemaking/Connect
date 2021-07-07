@@ -1,6 +1,6 @@
-# Contact 
+# Jovita Pais
 
-## Hello There 
+## I'm Jovita from Canada, and I do Web design and Development. I enjoy learning languages like Python and studying frameworks like WordPress.
 
 readme github profile
 📫 Message
