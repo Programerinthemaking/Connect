@@ -1,8 +1,6 @@
 # Jovita Pais
 
-I'm Jovita from Canada, and I do Web design and Development. I enjoy learning languages like Python and working on WordPress CMS alongwith Photography.
-
-wave Hi!!
+wave Hi!! I am a Jovita!
 eyes I’m interested in ... Comics, retro music, SciFi & Linux
 seedling I’m currently learning ... Javascript & Ruby
 revolving_hearts I’m looking for opportunities to work ... Javascript
